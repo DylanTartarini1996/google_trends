@@ -6,11 +6,13 @@ Collection of notebooks written while learning to work with Google Trends API. I
 - **cov_gt_collection** was used to collect daily data about Covid-related queries from Google Trends.
 
 ## repo structure
-google_trends
-├──
-├──pytrends_intro.ipynb
-├──covid_forecasting
-         ├──cov_gt_forecasting.ipynb
-         ├──cov_data.ipynb
-         ├──cov_gt_collection.ipynb
 
+.
+├── ...
+├──google_trends
+|        ├──pytrends_intro.ipynb
+|        ├──covid_forecasting
+|                  ├──cov_gt_forecasting.ipynb
+|                  ├──cov_data.ipynb
+|                  ├──cov_gt_collection.ipynb
+└── ...
